@@ -1,0 +1,2 @@
+- bessere fonts (modern aber nicht zu try hard)
+- Macht es sinn zwischen CAPs und normal zu wechseln?
